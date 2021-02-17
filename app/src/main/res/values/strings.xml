@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Radio Songgolangit</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Radio Songgolangit FM</string>
+    <string name="nav_header_subtitle">Informasi dan Solusi</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Tentang Radio</string>
+    <string name="menu_tools">Website Radio</string>
+    <string name="menu_share">Share Aplikasi Ini</string>
+    <string name="menu_send">Tentang Aplikasi</string>
+
+    <string name="notifications_admin_channel_name">Radio Songgolangit</string>
+    <string name="notifications_admin_channel_description">Songgolangit</string>
+    <string name="profil_songgolangit">Radio Songgolangit Informasi dan Solusi lahir sebagai media bagi masyarakat Ponorogo yang ingin maju dan memajukan Ponorogo disemua bidang melalui informasi audio. Radio Songgolangit yang didukung oleh tenaga muda yang berdedikasi tinggi dan berpengalaman di dunia broadcast, sekitarnya. Kami yakin Radio Songgolangit dapat memberikan yang terbaik bagi semua Mitra Kerjanya. Nama Songgolangit mempunyai makna keseriusan dan konsisten dalam berkarya serta menjadi penopang dan pendukung dalam pengembangan bisnis bagi masyarakat Ponorogo dan sekitarnya.</string>
+</resources>
